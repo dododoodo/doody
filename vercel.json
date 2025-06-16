@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/doody/api/:match*",
+      "destination": "http://hohosting.dothome.co.kr/doody/api/:match*"
+    }
+  ]
+}
